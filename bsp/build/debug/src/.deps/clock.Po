@@ -1,0 +1,8 @@
+src/clock.o: \
+ C:/Users/Michiel/wsFreedomStudio/BareMetalUart/freedom-metal/src/clock.c \
+ C:/Users/Michiel/wsFreedomStudio/BareMetalUart/freedom-metal/metal/clock.h \
+ c:\users\michiel\desktop\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\lib\gcc\riscv64-unknown-elf\8.3.0\include\stddef.h
+
+C:/Users/Michiel/wsFreedomStudio/BareMetalUart/freedom-metal/metal/clock.h:
+
+c:\users\michiel\desktop\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\lib\gcc\riscv64-unknown-elf\8.3.0\include\stddef.h:

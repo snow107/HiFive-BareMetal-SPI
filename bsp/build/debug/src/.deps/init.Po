@@ -1,0 +1,5 @@
+src/init.o: \
+ C:/Users/Michiel/wsFreedomStudio/BareMetalUart/freedom-metal/src/init.c \
+ C:/Users/Michiel/wsFreedomStudio/BareMetalUart/freedom-metal/metal/init.h
+
+C:/Users/Michiel/wsFreedomStudio/BareMetalUart/freedom-metal/metal/init.h:

@@ -1,0 +1,5 @@
+gloss/sys_exit.o: \
+ C:/Users/Michiel/wsFreedomStudio/BareMetalUart/freedom-metal/gloss/sys_exit.c \
+ C:/Users/Michiel/wsFreedomStudio/BareMetalUart/freedom-metal/metal/shutdown.h
+
+C:/Users/Michiel/wsFreedomStudio/BareMetalUart/freedom-metal/metal/shutdown.h:
